@@ -1,4 +1,4 @@
-## Guessing game logic
+## Guess the Number!!!
 
 import random
 
